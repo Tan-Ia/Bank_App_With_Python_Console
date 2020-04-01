@@ -1,7 +1,7 @@
 # Python Simple Console Bank App  
 
 
-This is a simple django blog project. 
+This is a simple Console Bank App  
 #  Features!
   - python==3.6.2 
 You can also:
